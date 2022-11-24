@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as t,o as c,b as r}from"./index.c26a8f1e.js";const s={};function a(_,d){const e=r("m-trend");return c(),o("div",null,[t(e,{text:"\u8425\u4E1A\u989D",type:"up"}),t(e,{text:"\u9500\u552E\u989D",type:"down"})])}const m=n(s,[["render",a]]);export{m as default};
